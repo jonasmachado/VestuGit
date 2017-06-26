@@ -18,7 +18,8 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
-
+/assets/MORPH3D/*/
+/assets/MORPH3D/*.*
 
 # Unity3D generated meta files
 *.pidb.meta
