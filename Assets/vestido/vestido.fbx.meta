@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: e82f4a521deba25418f42086cb6efeda
+timeCreated: 1499202905
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenUpper
+    100004: BelowJaw
+    100006: chestLower
+    100008: chestUpper
+    100010: Chin
+    100012: Dress_LOD0
+    100014: head
+    100016: hip
+    100018: lCarpal1
+    100020: lCarpal2
+    100022: lCarpal3
+    100024: lCarpal4
+    100026: lCheekLower
+    100028: lCollar
+    100030: lEar
+    100032: lEye
+    100034: lForearmBend
+    100036: lForearmTwist
+    100038: lHand
+    100040: lHandAttachmentPointL
+    100042: lIndex1
+    100044: LipBelow
+    100046: LipLowerMiddle
+    100048: lJawClench
+    100050: lLipCorner
+    100052: lLipLowerInner
+    100054: lLipLowerOuter
+    100056: lMid1
+    100058: lNasolabialLower
+    100060: lNasolabialMouthCorner
+    100062: lowerFaceRig
+    100064: lowerJaw
+    100066: lowerTeeth
+    100068: lPectoral
+    100070: lPinky1
+    100072: lRing1
+    100074: lShldrBend
+    100076: lShldrTwist
+    100078: lThighBend
+    100080: lThighTwist
+    100082: lThumb1
+    100084: lThumb2
+    100086: neckLower
+    100088: neckUpper
+    100090: pelvis
+    100092: rCarpal1
+    100094: rCarpal2
+    100096: rCarpal3
+    100098: rCarpal4
+    100100: rCheekLower
+    100102: rCollar
+    100104: rEar
+    100106: rEye
+    100108: rForearmBend
+    100110: rForearmTwist
+    100112: rHand
+    100114: rHandAttachmentPointR
+    100116: rIndex1
+    100118: rJawClench
+    100120: rLipCorner
+    100122: rLipLowerInner
+    100124: rLipLowerOuter
+    100126: rMid1
+    100128: rNasolabialLower
+    100130: rNasolabialMouthCorner
+    100132: rPectoral
+    100134: rPinky1
+    100136: rRing1
+    100138: rShldrBend
+    100140: rShldrTwist
+    100142: rThighBend
+    100144: rThighTwist
+    100146: rThumb1
+    100148: rThumb2
+    100150: upperFaceRig
+    100152: upperTeeth
+    100154: //RootNode
+    100156: vestido
+    400000: abdomenLower
+    400002: abdomenUpper
+    400004: BelowJaw
+    400006: chestLower
+    400008: chestUpper
+    400010: Chin
+    400012: Dress_LOD0
+    400014: head
+    400016: hip
+    400018: lCarpal1
+    400020: lCarpal2
+    400022: lCarpal3
+    400024: lCarpal4
+    400026: lCheekLower
+    400028: lCollar
+    400030: lEar
+    400032: lEye
+    400034: lForearmBend
+    400036: lForearmTwist
+    400038: lHand
+    400040: lHandAttachmentPointL
+    400042: lIndex1
+    400044: LipBelow
+    400046: LipLowerMiddle
+    400048: lJawClench
+    400050: lLipCorner
+    400052: lLipLowerInner
+    400054: lLipLowerOuter
+    400056: lMid1
+    400058: lNasolabialLower
+    400060: lNasolabialMouthCorner
+    400062: lowerFaceRig
+    400064: lowerJaw
+    400066: lowerTeeth
+    400068: lPectoral
+    400070: lPinky1
+    400072: lRing1
+    400074: lShldrBend
+    400076: lShldrTwist
+    400078: lThighBend
+    400080: lThighTwist
+    400082: lThumb1
+    400084: lThumb2
+    400086: neckLower
+    400088: neckUpper
+    400090: pelvis
+    400092: rCarpal1
+    400094: rCarpal2
+    400096: rCarpal3
+    400098: rCarpal4
+    400100: rCheekLower
+    400102: rCollar
+    400104: rEar
+    400106: rEye
+    400108: rForearmBend
+    400110: rForearmTwist
+    400112: rHand
+    400114: rHandAttachmentPointR
+    400116: rIndex1
+    400118: rJawClench
+    400120: rLipCorner
+    400122: rLipLowerInner
+    400124: rLipLowerOuter
+    400126: rMid1
+    400128: rNasolabialLower
+    400130: rNasolabialMouthCorner
+    400132: rPectoral
+    400134: rPinky1
+    400136: rRing1
+    400138: rShldrBend
+    400140: rShldrTwist
+    400142: rThighBend
+    400144: rThighTwist
+    400146: rThumb1
+    400148: rThumb2
+    400150: upperFaceRig
+    400152: upperTeeth
+    400154: //RootNode
+    400156: vestido
+    4300000: Dress_LOD0
+    9500000: //RootNode
+    11400000: Dress_LOD0
+    11400002: vestido
+    13700000: Dress_LOD0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
